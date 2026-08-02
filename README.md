@@ -1,4 +1,3 @@
-<!-- Banner -->
 <h1 align="center">Hi 👋 I'm Ramazan Kansu</h1>
 <h3 align="center">
 Software Engineer • Full Stack Developer • Team Lead • Problem Solver
