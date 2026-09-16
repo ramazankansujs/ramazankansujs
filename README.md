@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ramazan Kansu</h1>
 <h3 align="center">
-Software Engineer • Full Stack Developer • Team Lead • Problem Solver
+Software Engineer • Full Stack Developer • Team Lead 
 </h3>
 
 <p align="center">
@@ -17,22 +17,12 @@ I enjoy taking ownership of products from idea to deployment, designing scalable
 
 Currently I'm focused on:
 
-- ⚙️ Backend Architecture
-- 🌐 Full Stack Development
-- 🚀 Performance Optimization
-- ☁️ Cloud & DevOps
-- 👥 Engineering Leadership
-- 🤖 AI-powered Applications
----
-
-## 💼 What I Do
-
-- 🏗 Build production-ready applications
-- 👨‍💻 Design scalable backend systems
-- ⚛ Develop modern React applications
-- 🚀 Optimize performance
-- 🔥 Lead software teams
-- 📦 Deliver end-to-end projects
+-  Backend
+-  Full Stack Development
+-  Performance Optimization
+-  Cloud & DevOps
+-  Engineering Leadership
+-  AI-powered Applications
 
 ---
 
@@ -85,11 +75,10 @@ Currently I'm focused on:
 
 ## 🌍 Currently
 
-- 💼 Software Engineering Team Lead
-- 🎓 Master's Degree in Software Engineering
-- 📚 Always learning new technologies
-- 🚀 Building scalable products
-- 🤝 Open to remote opportunities
+-  Software Engineering Team Lead
+-  Always learning new technologies
+-  Building scalable products
+-  Open to remote opportunities
 
 ---
 
