@@ -17,7 +17,6 @@ I enjoy taking ownership of products from idea to deployment, designing scalable
 
 Currently I'm focused on:
 
--  Backend
 -  Full Stack Development
 -  Performance Optimization
 -  Cloud & DevOps
